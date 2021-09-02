@@ -4,3 +4,4 @@ titanic_df.csv
 .DS_Store
 .ipynb_checkpoints/
 __pycache__
+student_grades.csv
